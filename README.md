@@ -1,2 +1,2 @@
 # Account-balence
-This makes to maintain account
+This makes easy to maintain account
